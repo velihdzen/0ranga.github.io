@@ -81,6 +81,8 @@ deploy:
   type: git 
   repo: git@github.com:velihdzen/velihdzen.github.io.git
   branch: master
+  name: velihdzen
+  email: velih.dzen@gmail.com
 
 feed:
     type: atom
