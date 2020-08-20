@@ -233,3 +233,4 @@ BT 中使用的变种 tit-fot-tat 策略是囚徒困境的应用，博主 youxu 
 
 ## 参考资料
 1. [Question About Canonical Peer Priority](https://forum.utorrent.com/topic/90069-question-about-canonical-peer-priority/)
+2. [What do Flags and Reqs mean in uTorrent? - Super User](https://superuser.com/a/562970)
